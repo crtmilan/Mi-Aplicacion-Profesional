@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Design Thinking para Emprendedores</string>
+    <string name="image1">image</string>
+    <string name="Texto1">Etapas del Design Thinking</string>
+    <string name="Intro">El design thinking es un método de innovación que nos ofrece un sistema aplicable a multitud de problemas diversos y que, por su flexibilidad, se adapta a todo tipo de empresas y organizaciones</string>
+    <string name="logo">logo</string>
+    <string name="inspiracion">Inspiración</string>
+    <string name="inspiraciontxt">En esta primera etapa aún no sabemos mucho de nuestro problema. Puede que ni siquiera sepamos cuál es el problema. Así que, el primer paso, será deshacernos de nuestros prejuicios y preconcepciones y ponernos a investigar</string>
+    <string name="ideacion">Ideación</string>
+    <string name="ideaciontxt">En esta fase es en la que los datos e ideas concretas observadas, se convertirán en ideas más abstractas y conceptos, se identificarán patrones, temas y oportunidades y, después, se volverá a lo concreto mediante la propuesta de soluciones y la fabricación de prototipos</string>
+    <string name="implementacion">Implementación</string>
+    <string name="implementaciontxt">En esta etapa empezaremos a concretar soluciones y a idear modelos de negocio viables para las soluciones que hemos encontrado más deseables. También ahora evaluaremos las capacidades de nuestra empresa —recursos humanos, técnicos y conocimientos— para planificar la implementación y lanzar nuestra idea innovadora en el mercado</string>
+    <string name="definir">Definir</string>
+    <string name="definirtxt">Para definir nuestro problema u oportunidad con más precisión, una vez que lo tenemos identificado, podemos realizar un esquema en el que recopilemos la siguiente información: Datos, Tecnología, Productos, Experiencias, Sistemas e Implicaciones</string>
+    <string name="empatizar">Empatizar</string>
+    <string name="empatizartxt">Para lograr soluciones, como decíamos al comienzo, el design thinking parte de la base de que quienes tienen las claves de la solución son los usuarios finales. Así que, para comenzar cualquier proyecto de diseño, necesitamos primero entender a esos usuarios, empatizar con ellos, entender sus contextos y la complejidad de sus vidas, y llegar a ver el problema con sus ojos</string>
+    <string name="idear">Idear</string>
+    <string name="ideartxt">Es una de las etapas más dinámica y colaborativa del proceso, y esto se debe a que tiene como objetivo la generación de un sinfín de “posibles soluciones” al problema (o problemas) que se detectaron en la fase de Definición</string>
+    <string name="prototipar">Prototipar</string>
+    <string name="prototipartxt">Este proceso es un proceso de cocreación y, por tanto, una vez tengamos un prototipo básico y alguna premisa que queramos probar o refutar, tendremos que ir a los usuarios finales, probar con ellos nuestro prototipo y hacer las preguntas adecuadas para avanzar en el desarrollo de la solución</string>
+    <string name="evaluar">Evaluar</string>
+    <string name="evaluartxt">En esta etapa empezaremos a concretar soluciones y a idear modelos de negocio viables para las soluciones que hemos encontrado más deseables. También ahora evaluaremos las capacidades de nuestra empresa —recursos humanos, técnicos y conocimientos— para planificar la implementación y lanzar nuestra idea innovadora en el mercado</string>
+</resources>

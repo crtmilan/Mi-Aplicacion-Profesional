@@ -1,0 +1,2 @@
+rootProject.name = "Design Thinking para Empredendedores"
+include ':app'
